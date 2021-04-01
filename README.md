@@ -1,2 +1,2 @@
 # testing-repository-gh
-Testowy
+Testowy tekst do cw commit
