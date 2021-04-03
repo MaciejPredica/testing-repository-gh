@@ -1,2 +1,3 @@
 # testing-repository-gh
-Testowy
+Testowy tekst do cw commit!!
+zmiana dokonana na first branch
